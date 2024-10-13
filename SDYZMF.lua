@@ -1,2 +1,2 @@
-game:GetService("Players").LocalPlayer:Kick("This game no longer support by Sdyz")
+game:GetService("Players").LocalPlayer:Kick("The script is currently down due to an error.")
 -- ComeBack Soon
